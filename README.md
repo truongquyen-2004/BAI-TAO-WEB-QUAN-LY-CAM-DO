@@ -22,6 +22,9 @@
 <img width="1918" height="876" alt="Screenshot 2026-05-09 162912" src="https://github.com/user-attachments/assets/417c2957-3ef0-43d6-80f8-61d4ac2c08d6" />
 <img width="1507" height="795" alt="Screenshot 2026-05-09 163131" src="https://github.com/user-attachments/assets/fe03c5a6-c095-4e37-82c4-36b502efcc54" />
 <img width="1467" height="535" alt="Screenshot 2026-05-09 163227" src="https://github.com/user-attachments/assets/5c1def2a-95f7-4f2f-b87e-4898fd858563" />
+###    kết quả
+<img width="626" height="193" alt="image" src="https://github.com/user-attachments/assets/099e5860-ecd6-40af-9e6a-38a91187883c" />
+
 
 
 
